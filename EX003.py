@@ -68,4 +68,3 @@ else:
     bc = b[1] - a[1]
 
 print(round(math.sqrt((ab*ab)+(bc*bc)),2))
-
